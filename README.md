@@ -11,7 +11,7 @@ Tiếp nối BTTH02 (Login, Register, Forgot Password, Logout, CRUD Category)
 
 Thực hiện chức năng forget password, logout cho bài tập 02
 
-Bảng category liên kết với bảng users (01 user có nhiều category), hướng dẫn CRUD của category trong bài giảng.
+Bảng category liên kết với bảng users (01 user có nhiều category), CRUD của category trong bài giảng.
 
 ## 📂 Cấu trúc thư mục
 vidu1/                # Thư mục ví dụ trong BTTH03
